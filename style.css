@@ -1,0 +1,135 @@
+body {
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+    color: dodgerblue;
+     background: linear-gradient(#fff400 0%, #a200ff 100%)
+}
+
+#welcome {
+    background-color: linear-gradient (#fff400 0%, #00fff3 100%);
+    z-index: 99999;
+
+}
+
+#werty {
+    background: linear-gradient(#fff400 0%, #00fff3 100%)
+}
+
+#vvrte {
+    background: linear-gradient(#fff400 0%, #a200ff 100%)
+}
+
+h2 {
+    font-family: 'Ranchers', cursive;
+}
+
+.menu {
+    list-style: none;
+    font-family: inherit;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.one {
+    float: left;
+    color: darkblue;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+.one:hover {
+    background-color: black;
+}
+
+#weeee {
+    height: 500px;
+    width: 400px;
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+    color: black;
+
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+    background-color: darksalmon;
+}
+
+.qwerrrrr h2 {
+    display: inline;
+}
+
+.qwerrrrr a {
+    color: darkturquoise;
+    text-shadow: none;
+}
+
+#contacts {
+    background: green;
+}
+
+#wgtreew {
+    border-radius: 100%;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#start {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font font-size: 40px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.my_nav_bar {
+    position: sticky;
+    z-index: 99999;
+    top: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Sacramento', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+.my_nav_bar:hover {
+    font-size: 15px;
+    background-color: darkslategray;
+    color: darkblue;
+}
+
+#wedr {
+    height: 50px;
+    width: 50px;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
